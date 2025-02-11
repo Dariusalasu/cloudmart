@@ -1,7 +1,7 @@
 # CloudMart
 
 ## Project Overview
-The MultiCloud DevOps & AI Challenge was an intensive bootcamp focused on building CloudMart, a sophisticated e-commerce platform. The project demonstrated the seamless integration of multiple cloud services, incorporating AWS, Google Cloud, and Azure infrastructures. Throughtout the bootcamp, I developed a modern application using a real-world use case that showcased container orchestration, automated deployment pipelines, AI-powered customer interactions, and cross-cloud analytics capabilities.
+The MultiCloud DevOps & AI Challenge[^1] was an intensive bootcamp focused on building CloudMart, a sophisticated e-commerce platform. The project demonstrated the seamless integration of multiple cloud services, incorporating AWS, Google Cloud, and Azure infrastructures. Throughtout the bootcamp, I developed a modern application using a real-world use case that showcased container orchestration, automated deployment pipelines, AI-powered customer interactions, and cross-cloud analytics capabilities.
 
 ![cloudmart-architecture-overview](https://github.com/user-attachments/assets/706aca4c-484e-4e03-81ce-71c254918b1b)
 
@@ -43,3 +43,5 @@ The final day expanded the application's capabilities across multiple cloud prov
 ![EN_MDAC_VIP_BADGE_OPENAI](https://github.com/user-attachments/assets/a1f23867-2471-4e90-b800-5981a7bc9714)
 ![EN_MDAC_VIP_BADGE_GCP](https://github.com/user-attachments/assets/877f76c9-c077-4618-9d67-9d999661a73b)
 ![EN_MDAC_VIP_BADGE_AZURE](https://github.com/user-attachments/assets/34b193e1-b4c2-45b5-96f9-ff5388071d46) -->
+
+[^1]: The MultiCloud DevOps & AI Challenge is taught at The Cloud Bootcamp by Jean Rodrigues.
